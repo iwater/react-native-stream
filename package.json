@@ -1,5 +1,5 @@
 {
-  "name": "readable-stream",
+  "name": "@iwater/react-native-stream",
   "version": "4.2.0",
   "description": "Node.js Streams, a user-land copy of the stream library from Node.js",
   "homepage": "https://github.com/nodejs/readable-stream",
